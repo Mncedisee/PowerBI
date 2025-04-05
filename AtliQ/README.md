@@ -19,7 +19,6 @@ This project aims to analyze and improve the supply chain performance of AtliQ M
 ## 📈 Visuals & Reports
 This dashboard includes:
 - **KPI Cards**: OT%, IF%, and OTIF% at a glance
-- **Gauge Charts**: Performance comparison against target service levels
 - **Line Chart**: OTIF% trend over time
 - **Treemap**: Identification of customers with the lowest OTIF% based on order volume
 - **Bar Charts**: City-wise service level analysis
