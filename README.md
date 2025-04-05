@@ -11,9 +11,8 @@ This repository showcases different Power BI projects where I have applied analy
 - **Interactive Dashboards:** Crafting **storytelling dashboards** that highlight trends, comparisons, and actionable insights.
 
 ## 📂 Projects Included
-1. **[Project Name 1]** – Brief description of the project (e.g., Sales Performance Analysis, Market Penetration Study, etc.).
-2. **[Project Name 2]** – Brief description of the project.
-3. **[Project Name 3]** – Brief description of the project.
+1. **CodeX Energy Drink Market Analysis** – Market Penetration Analysis.
+2. **AtliQ Mart Supply Chain Analysis** – Brief description of the project.
 
 Each project folder contains:
 - **.pbix file** (Power BI report)
