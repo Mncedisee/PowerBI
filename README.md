@@ -27,7 +27,7 @@ Each project folder contains:
 - **Dashboard Design:** Creating interactive visuals, KPIs, and storytelling reports.
 
 ## 📢 Connect with Me
-If you have any suggestions or feedback, feel free to connect with me on **[LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mncedisi-makhaza-719530b4/))** or check out my other projects on **[GitHub](https://github.com/Mncedisee)**.
+If you have any suggestions or feedback, feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/mncedisi-makhaza-719530b4/)** or check out my other projects on **[GitHub](https://github.com/Mncedisee)**.
 
 Happy analyzing! 📊🔥
 
